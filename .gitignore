@@ -4,5 +4,6 @@ m68kopdm.c
 m68kopnz.c
 m68kops.h
 *.o
+*.bin
 sim
 m68kmake
